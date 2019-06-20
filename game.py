@@ -41,4 +41,4 @@ if answer.lower().strip() == "yes":
 
 
 else:
-    print("That' too bad!")
+    print("That's too bad!")
